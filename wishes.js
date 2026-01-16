@@ -38,27 +38,27 @@ const reasons = [
     {
         text: "Because you always know how to make me smile! 💖",
         emoji: "✨",
-        gif: "animation-1.gif"
+        gif: "gif1.gif"
     },
     {
         text: "Because you're the best listener I know! 🌸",
         emoji: "💫",
-        gif: "animation-2.gif"
+        gif: "gif2.gif"
     },
     {
         text: "Because your laugh is contagious! ✨",
         emoji: "🌟",
-        gif: "animation-1.gif"
+        gif: "gif1.gif"
     },
     {
         text: "Because you make every moment special! 🎂",
         emoji: "💖",
-        gif: "animation-2.gif"
+        gif: "gif2.gif"
     },
     {
         text: "Because you're simply amazing! Here's to another wonderful year! 🎉",
         emoji: "🎊",
-        gif: "animation-1.gif"
+        gif: "gif1.gif"
     }
     // Add more reasons as needed!
 ];
